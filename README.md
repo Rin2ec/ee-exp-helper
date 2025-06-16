@@ -6,7 +6,7 @@
 
 ![screenshot](https://cdn.discordapp.com/attachments/1368468577384005674/1384209016783376524/image.png?ex=6851989a&is=6850471a&hm=d7d43c9e3c272823d29479515c03f64993568b24cb900a9a0757bbf68ddc7970&)
 
-![screenshot](https://cdn.discordapp.com/attachments/961270197409415282/1384211244218581003/image.png?ex=68519aae&is=6850492e&hm=ee7a9f8c6df7314d5a0d5312eadc028df136fe464cfc8ecb3e3cb965c6cc43d1&)
+![screenshot](https://cdn.discordapp.com/attachments/961270197409415282/1384212257726271568/image.png?ex=68519b9f&is=68504a1f&hm=1d8e6d60237a8c43263e60baaf0fba5a9de69bb989f6c7df8fb58fcab5f2b4ed&)
 
 ---
 
