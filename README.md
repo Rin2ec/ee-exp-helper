@@ -1,0 +1,78 @@
+# Artale EXP Detector
+
+🎮 一款針對《Artale》遊戲打造的 EXP 統計工具，
+透過即時 OCR 擷取畫面，自動分析經驗值增量與效率，
+支援遊戲內 HUD 顯示，適用於 Windows。
+
+![screenshot](https://media.discordapp.net/attachments/1383985739305324704/1383985757240295495/image.png?ex=6850c8ad&is=684f772d&hm=efed2e2c6ceafade92e33153fd0580a0dee6dbfd96530eeae008feec536aa29f&=&format=webp&quality=lossless&width=354&height=432)
+
+---
+
+## ✨ 功能特色
+- 📷 自訂畫面偵測區域（EXP 數值所在區塊）
+- 🔍 即時 OCR 辨識畫面 EXP 數字
+- 📈 實時統計：
+  - EXP
+  - 擊殺數（Kills）
+  - 每分鐘 EXP（EXP / min）
+  - 預估 10 分鐘 EXP
+  - 10分鐘實際累積 EXP
+- 🎮 遊戲模式浮動 UI（可拖曳、隱藏、模式切換）
+- ⌨️ **快捷鍵支援**：
+  - `F7`：開始統計  
+  - `F8`：重置統計  
+  - `F9`：切換遊戲模式（HUD 開/關）
+- 💾 自動儲存設定（偵測區域、顯示模式、視窗位置）
+- 📤 匯出功能：可將統計資料另存為 `.csv` 檔案
+- 🛡️ 外部畫面偵測，無注入、零風險，安心使用
+
+---
+
+## 📦 下載與安裝
+
+前往 [Releases 頁面](https://github.com/Rin2ec/artale-exp-detector/releases) 下載最新版本：
+
+| 檔案類型 | 下載連結 |
+|----------|-----------|
+| 🗂️ 免安裝版 | `ArtaleEXPDetector-v1.0.2.zip` |
+
+> 僅支援 Windows 10 / 11，建議使用全螢幕視窗模式執行遊戲。
+
+---
+
+## 🚀 快速開始
+
+1. 執行應用程式
+2. 點擊「選取範圍」框選 EXP 數值區塊
+⚠️ **請記得右邊留點空間（大約 2～3 位數）**，避免從 `99` 升到 `100` 時被裁掉，影響偵測。
+3. 點選「開始統計」
+4. 開啟「遊戲模式」以浮動 HUD 顯示統計資訊
+
+---
+
+## 🖥️ 系統需求
+
+- ✅ 作業系統：Windows 10 / 11
+- ✅ 顯示：100% 縮放比例建議
+- ✅ 執行模式：Artale 建議使用視窗模式執行
+- ❌ 尚未支援全螢幕（獨佔模式）
+
+---
+
+## 🐞 已知問題
+
+- 部分數值可能因字體渲染導致 OCR 誤判
+- OCR 區域若選太小會漏字、選太大則辨識雜訊增加
+
+---
+
+## 🧑‍💻 開發者
+
+由 Rin 開發  
+📺 [Twitch 頻道](https://twitch.tv/shiyu2615)  
+💬 Discord: `rin_ovob`
+
+歡迎在 GitHub 上回報問題或提供建議 🙌  
+👉 [Issues](https://github.com/Rin2ec/artale-exp-detector/issues)
+
+---
