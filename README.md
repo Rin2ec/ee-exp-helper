@@ -79,7 +79,7 @@
 
 由 Rin 開發  
 📺 [Twitch 頻道](https://twitch.tv/shiyu2615)  
-💬 Discord: `rin_ovob`
+💬 Discord: `rin_ovob`  
 歡迎在 [Discord](https://discord.com/invite/rpnsScZWpr) 上的「📊伊伊經驗小幫手」回報問題或提供建議 🙌  
 
 ---
