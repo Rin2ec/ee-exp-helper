@@ -72,7 +72,7 @@
 |--------------------|------------------------------------|------|
 | ⏰ **BOSS 時間計算器** | 記錄並預測世界王出現時間               | [立即查看](https://rin2ec.github.io/ee-boss-respawn-timer/) |
 | 🌐 **頻道紀錄查詢工具** | 簡易記錄遊戲頻道資訊       | [立即查看](https://rin2ec.github.io/ee-number-tool/)|
-| 🐱 **伊伊接技小幫手** | 鍵盤接招練習工具，適用於多數遊戲  | [立即查看](https://github.com/Rin2ec/ee-combo-helper)|
+| 🐱 **伊伊接技小幫手** | 鍵盤接招練習工具  | [立即查看](https://github.com/Rin2ec/ee-combo-helper)|
 ---
 
 ## 🧑‍💻 開發者
@@ -80,6 +80,6 @@
 由 Rin 開發  
 📺 [Twitch 頻道](https://twitch.tv/shiyu2615)  
 💬 Discord: `rin_ovob`
-歡迎在 [Discord](https://discord.com/invite/rpnsScZWpr) 上的「📊artale經驗小幫手」回報問題或提供建議 🙌  
+歡迎在 [Discord](https://discord.com/invite/rpnsScZWpr) 上的「📊伊伊經驗小幫手」回報問題或提供建議 🙌  
 
 ---
