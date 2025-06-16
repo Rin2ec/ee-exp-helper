@@ -1,4 +1,4 @@
-# Artale EXP Detector
+# Artale經驗小幫手
 
 🎮 一款針對《Artale》遊戲打造的 EXP 統計工具，
 透過即時 OCR 擷取畫面，自動分析經驗值增量與效率，
@@ -34,7 +34,7 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | `ArtaleEXPDetector-v1.0.2.zip` |
+| 🗂️ 免安裝版 | [Artale EXP Detector-v1.0.2.zip](https://drive.google.com/file/d/1epVgjPPEjHOHDyHo-uyE48xUt9u8WsAV/view) |
 
 > 僅支援 Windows 10 / 11，建議使用全螢幕視窗模式執行遊戲。
 
@@ -43,8 +43,8 @@
 ## 🚀 快速開始
 
 1. 執行應用程式
-2. 點擊「選取範圍」框選 EXP 數值區塊
-⚠️ **請記得右邊留點空間（大約 2～3 位數）**，避免從 `99` 升到 `100` 時被裁掉，影響偵測。
+2. 點擊「選取範圍」框選 EXP 數值區塊  
+   ⚠️ **請記得右邊留點空間（大約 2～3 位數）**，避免從 `99` 升到 `100` 時被裁掉，影響偵測。
 3. 點選「開始統計」
 4. 開啟「遊戲模式」以浮動 HUD 顯示統計資訊
 
@@ -71,8 +71,6 @@
 由 Rin 開發  
 📺 [Twitch 頻道](https://twitch.tv/shiyu2615)  
 💬 Discord: `rin_ovob`
-
-歡迎在 GitHub 上回報問題或提供建議 🙌  
-👉 [Issues](https://github.com/Rin2ec/artale-exp-detector/issues)
+歡迎在 [Discord](https://discord.com/invite/rpnsScZWpr) 上的「📊artale經驗小幫手」回報問題或提供建議 🙌  
 
 ---
