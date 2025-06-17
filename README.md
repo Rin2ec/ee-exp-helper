@@ -4,9 +4,9 @@
 透過即時 OCR 擷取畫面，自動分析經驗值增量與效率，
 支援遊戲內 HUD 顯示，適用於 Windows。
 
-![screenshot](https://cdn.discordapp.com/attachments/1368468577384005674/1384209016783376524/image.png?ex=6851989a&is=6850471a&hm=d7d43c9e3c272823d29479515c03f64993568b24cb900a9a0757bbf68ddc7970&)
+![screenshot](https://media.discordapp.net/attachments/961270197409415282/1384530961714118656/image.png?ex=6852c470&is=685172f0&hm=b26220dd8fa2a4f50debaca72dc6ddb803bdf58f5993679c1aa82cd561621b1b&=&format=webp&quality=lossless)
 
-![screenshot](https://cdn.discordapp.com/attachments/961270197409415282/1384212257726271568/image.png?ex=68519b9f&is=68504a1f&hm=1d8e6d60237a8c43263e60baaf0fba5a9de69bb989f6c7df8fb58fcab5f2b4ed&)
+![screenshot](https://media.discordapp.net/attachments/1365964640307380234/1384379485021011989/image.png?ex=6852375d&is=6850e5dd&hm=f29ff1faf486da483a5de9d475a9d5149837009dad0ecbf6d94a36758fd4d70b&=&format=webp&quality=lossless)
 
 ---
 
@@ -36,7 +36,7 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | [Artale EXP Detector-v1.0.3.zip](https://drive.google.com/file/d/13P8mPqOvnr_KkSIjuV0HTnUFpOzixMWC/view) |
+| 🗂️ 免安裝版 | [Artale EXP Detector-v1.0.4.zip](https://drive.google.com/file/d/1ax5r7E4upoPT4vJHxO7PAGCrgYSuh1Qv/view?usp=sharing) |
 
 > 僅支援 Windows 10 / 11，建議使用全螢幕視窗模式執行遊戲。
 
