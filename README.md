@@ -36,7 +36,7 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | [Artale EXP Detector-v1.0.4.zip](https://drive.google.com/file/d/1ax5r7E4upoPT4vJHxO7PAGCrgYSuh1Qv/view?usp=sharing) |
+| 🗂️ 免安裝版 | [Artale EXP Detector-v1.1.0.zip](https://drive.google.com/file/d/1zPqEs68G5cVBoVNzskpmIEqIf7admOfr/view?usp=sharing) |
 
 > 僅支援 Windows 10 / 11，建議使用全螢幕視窗模式執行遊戲。
 
