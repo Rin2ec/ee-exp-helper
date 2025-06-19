@@ -4,7 +4,7 @@
 透過即時 OCR 擷取畫面，自動分析經驗值增量與效率，
 支援遊戲內 HUD 顯示。
 
-![screenshot](https://cdn.discordapp.com/attachments/961270197409415282/1385250091019010152/image.png?ex=6855622e&is=685410ae&hm=8b8fb9318294e22a0fb4be820c30a38b54497c2cb989803b10e18d8b354e5cc4&)
+![screenshot](https://media.discordapp.net/attachments/961270197409415282/1385268247317975250/image.png?ex=68557317&is=68542197&hm=d363348348b0d9a337fc876a3638df74ab8e4a90447b37bc732686349dd2eac9&=&format=webp&quality=lossless)
 
 
 ---
