@@ -4,9 +4,8 @@
 透過即時 OCR 擷取畫面，自動分析經驗值增量與效率，
 支援遊戲內 HUD 顯示，適用於 Windows。
 
-![screenshot](https://media.discordapp.net/attachments/961270197409415282/1384530961714118656/image.png?ex=6852c470&is=685172f0&hm=b26220dd8fa2a4f50debaca72dc6ddb803bdf58f5993679c1aa82cd561621b1b&=&format=webp&quality=lossless)
+![screenshot](https://cdn.discordapp.com/attachments/961270197409415282/1385250091019010152/image.png?ex=6855622e&is=685410ae&hm=8b8fb9318294e22a0fb4be820c30a38b54497c2cb989803b10e18d8b354e5cc4&)
 
-![screenshot](https://media.discordapp.net/attachments/1365964640307380234/1384379485021011989/image.png?ex=6852375d&is=6850e5dd&hm=f29ff1faf486da483a5de9d475a9d5149837009dad0ecbf6d94a36758fd4d70b&=&format=webp&quality=lossless)
 
 ---
 
@@ -56,7 +55,7 @@
 
 - ✅ 作業系統：Windows 10 / 11
 - ✅ 顯示：100% 縮放比例建議
-- ✅ 執行模式：Artale 建議使用視窗模式執行
+- ✅ 執行模式：Artale 建議使用全螢幕視窗模式執行
 
 ---
 
