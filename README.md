@@ -35,7 +35,7 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | [伊伊經驗小幫手-v1.1.0.zip](https://drive.google.com/file/d/1zPqEs68G5cVBoVNzskpmIEqIf7admOfr/view?usp=sharing) |
+| 🗂️ 免安裝版 | [伊伊經驗小幫手-v1.2.0.zip]([https://drive.google.com/file/d/1zPqEs68G5cVBoVNzskpmIEqIf7admOfr/view?usp=sharing](https://drive.google.com/file/d/18tz0NQFoO0nKQGpEH3vbvOP8gJHiLv26/view)) |
 
 > 僅支援 Windows 10 / 11，建議使用全螢幕視窗模式執行遊戲。
 
