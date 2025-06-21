@@ -3,7 +3,7 @@
 🎮 《**Artale**》EXP 統計工具，
 透過即時 OCR 擷取畫面，自動分析經驗值增量與效率，支援遊戲內 HUD 顯示。
 
-![screenshot](https://media.discordapp.net/attachments/961270197409415282/1385268247317975250/image.png?ex=68557317&is=68542197&hm=d363348348b0d9a337fc876a3638df74ab8e4a90447b37bc732686349dd2eac9&=&format=webp&quality=lossless)
+![screenshot](https://media.discordapp.net/attachments/961270197409415282/1385898441829384212/image.png?ex=6857be01&is=68566c81&hm=12363bddfdac937eaefb80e70fe3b8c4e62eb806b4ad33007d5d92d6c0746421&=&format=webp&quality=lossless)
 
 
 ---
