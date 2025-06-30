@@ -1,9 +1,9 @@
 # 伊伊經驗小幫手
 
 🎮 《**Artale**》EXP 統計工具，
-透過即時 OCR 擷取畫面，自動分析經驗值效率，支援遊戲內 HUD 顯示。
+即時 OCR 擷取畫面，自動分析經驗值效率，提供遊戲內 HUD 顯示功能。
 
-![screenshot](https://media.discordapp.net/attachments/961270197409415282/1385898441829384212/image.png?ex=6857be01&is=68566c81&hm=12363bddfdac937eaefb80e70fe3b8c4e62eb806b4ad33007d5d92d6c0746421&=&format=webp&quality=lossless)
+![screenshot](https://cdn.discordapp.com/attachments/961270197409415282/1389219046087590060/2025-06-30_201644.png?ex=6863d28f&is=6862810f&hm=83ab4bd0c968985d81ea38e6a3df37d36b84411ff19842cb1cba70516551c5d5&)
 
 
 ---
@@ -17,7 +17,11 @@
   - 每分鐘 EXP（EXP / min）
   - 預估 10 分鐘 EXP
   - 10分鐘實際累積 EXP
-- 🎮 遊戲模式浮動 UI（可拖曳、隱藏、模式切換）
+- 🎮 **遊戲模式浮動 HUD：**
+  - 支援自由拖曳
+  - 快速顯示 / 隱藏
+  - 欄位顯示可即時開關
+  - 進度條模式切換（時間 / 擊殺 / EXP 效率）
 - ⌨️ **快捷鍵支援**：
   - `F7`：開始/暫停/繼續統計  
   - `F8`：重置統計  
@@ -35,7 +39,7 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | [伊伊經驗小幫手-v1.2.1.zip](https://drive.google.com/file/d/1_p9jEyHgy6bKhs29BWDdRgNbXwGUkZW3/view?usp=sharing) |
+| 🗂️ 免安裝版 | [伊伊經驗小幫手-v1.2.2.zip](https://drive.google.com/file/d/1MrXbQ6Ch2KZ7P2GmHUdiSO--8EG8Va2g/view?usp=sharing) |
 
 > 僅支援 Windows 10 / 11，建議使用全螢幕視窗模式執行遊戲。
 
@@ -43,11 +47,11 @@
 
 ## 🚀 快速開始
 
-1. 執行應用程式
+1. 執行應用程式 `伊伊經驗小幫手.exe`
 2. 點擊「選取範圍」框選 EXP 數值區塊  
    ⚠️ **請記得右邊留點空間（大約 2～3 位數）**，避免從 `99` 升到 `100` 時被裁掉，影響偵測。
-3. 點選「開始統計」
-4. 開啟「遊戲模式」以浮動 HUD 顯示統計資訊
+3. 按下 `F7`「開始統計」
+4. 按下 `F9`「遊戲模式」以浮動 HUD 顯示統計資訊
 
 ---
 
