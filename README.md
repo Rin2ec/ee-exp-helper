@@ -39,7 +39,7 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | [伊伊經驗小幫手-v1.2.4.zip](https://drive.google.com/file/d/16gkP2lPz9-qY0JDmXR_LQSyNyxh5Ln9m/view) |
+| 🗂️ 免安裝版 | [伊伊經驗小幫手-v1.2.4.zip](https://drive.google.com/file/d/1miivXD1BX19yIbEgJG5x4cDWH3E-Ezqx/view?usp=sharing) |
 
 > 僅支援 Windows 10 / 11，建議使用全螢幕視窗模式執行遊戲。
 
