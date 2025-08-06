@@ -52,7 +52,7 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | [伊伊經驗小幫手-v2.0.2.zip][https://drive.google.com/file/d/1_UgcM6joIyYEYbcsaQ9jw7D6pg2L44QJ/view](https://drive.google.com/file/d/1OwmN3fSXybVJvRUcm-6DomMHMiegQN0i/view)] |
+| 🗂️ 免安裝版 | [伊伊經驗小幫手-v2.0.2.zip](https://drive.google.com/file/d/1OwmN3fSXybVJvRUcm-6DomMHMiegQN0i/view?usp=sharing)] |
 
 ---
 
