@@ -53,6 +53,7 @@
 | 檔案類型 | 下載連結 |
 |----------|-----------|
 | 🗂️ 免安裝版 | [伊伊經驗小幫手-v2.0.3.zip](https://drive.google.com/file/d/1kPxq0B19KsiTAmp_dS4ASwRQ9fDnjQy4/view?usp=sharing) |
+| 🗂️ Mac版 | [伊伊經驗小幫手-v2.0.3-mac.dmg](https://drive.google.com/file/d/1Ir9FKb3FHeEZx7JcqRgYta8XJjiLt8ev/view?usp=drive_link)
 
 ---
 
@@ -73,7 +74,7 @@
 
 ## 🖥️ 系統需求
 
-- ✅ 作業系統：Windows 10 / 11
+- ✅ 作業系統：Windows 10 / 11 / MacOS
 - ✅ 建議使用全螢幕視窗模式，避免解析度不足導致 OCR 辨識異常
 
 ---
