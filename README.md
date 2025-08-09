@@ -1,4 +1,4 @@
-# 伊伊經驗小幫手 2.0.3
+# 伊伊經驗小幫手 2.0.4
 
 🎮 《**Artale**》EXP 統計工具，透過即時 OCR 擷取畫面，自動分析經驗效率，並提供浮動 HUD 與多項統計功能。
 
@@ -52,8 +52,8 @@
 
 | 檔案類型 | 下載連結 |
 |----------|-----------|
-| 🗂️ 免安裝版 | [伊伊經驗小幫手-v2.0.3.zip](https://drive.google.com/file/d/1kPxq0B19KsiTAmp_dS4ASwRQ9fDnjQy4/view?usp=sharing) |
-| 🗂️ Mac版 | [伊伊經驗小幫手-v2.0.3-mac.dmg](https://drive.google.com/file/d/1Ir9FKb3FHeEZx7JcqRgYta8XJjiLt8ev/view?usp=drive_link)
+| 🗂️ 免安裝版 | [伊伊經驗小幫手-v2.0.4-win.zip](https://drive.google.com/file/d/1wNvJvXGFQltknCFLPxToNQYMxX6MK32l/view?usp=sharing) |
+| 🗂️ Mac版 | [伊伊經驗小幫手-v2.0.4-mac.dmg](https://drive.google.com/file/d/1OLuk4zdx09msEpbNjfEyjMtyAsqkSml2/view?usp=drive_link) |
 
 ---
 
