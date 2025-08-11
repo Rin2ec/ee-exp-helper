@@ -48,12 +48,7 @@
 
 ## 📦 下載與安裝
 
-前往 [Releases 頁面](https://github.com/Rin2ec/ee-exp-helper/releases) 下載最新版本：
-
-| 檔案類型 | 下載連結 |
-|----------|-----------|
-| 🗂️ 免安裝版 | [伊伊經驗小幫手-v2.1-win.zip](https://drive.google.com/file/d/1YXcbSHK7_qChx6p7-E6dQOy9CCS1sdkD/view?usp=drive_link) |
-| 🗂️ Mac版 | [伊伊經驗小幫手-v2.1-mac.dmg](https://drive.google.com/file/d/1lWVZFS8PD0gjBtDYRKqdioOs93RRYLOB/view?usp=sharing) |
+前往 [Releases 頁面](https://github.com/Rin2ec/ee-exp-helper/releases) 下載最新版本
 
 ---
 
