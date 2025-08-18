@@ -2,7 +2,7 @@
 
 🎮 《**Artale**》EXP 統計工具，透過即時 OCR 擷取畫面，自動分析經驗效率，並提供浮動 HUD 與多項統計功能。
 
-![screenshot](https://truth.bahamut.com.tw/s01/202508/forum/79354/40b9d4c7b1d05ac2123dadc95e4d4457.JPG)
+![screenshot](https://truth.bahamut.com.tw/s01/202508/forum/79354/536e1ec1bace3a276273ec718070beff.JPG)
 
 
 ---
